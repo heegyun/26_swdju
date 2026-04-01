@@ -201,7 +201,7 @@ export default function App() {
 
         {/* Footer Info */}
         <footer className="mt-12 text-center text-slate-400 text-[10px] font-bold uppercase tracking-[0.2em]">
-          <p>© 2026 Assessment System • Professional Edition</p>
+          <p>© 2026 대전대학교 SW중심대학사업단</p>
         </footer>
       </main>
     </div>
